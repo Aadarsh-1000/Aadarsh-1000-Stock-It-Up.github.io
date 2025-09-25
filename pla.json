@@ -1,0 +1,3950 @@
+[
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1383.0,
+    "timestamp": "2025-09-24 23:10:47"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.24,
+    "timestamp": "2025-09-25 00:06:24"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.24,
+    "timestamp": "2025-09-25 00:06:28"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.41,
+    "timestamp": "2025-09-25 00:06:32"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.41,
+    "timestamp": "2025-09-25 00:06:36"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.41,
+    "timestamp": "2025-09-25 00:06:40"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.46,
+    "timestamp": "2025-09-25 00:06:44"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.46,
+    "timestamp": "2025-09-25 00:06:48"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.35,
+    "timestamp": "2025-09-25 00:06:52"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.35,
+    "timestamp": "2025-09-25 00:06:56"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.49,
+    "timestamp": "2025-09-25 00:07:00"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.35,
+    "timestamp": "2025-09-25 00:07:04"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.32,
+    "timestamp": "2025-09-25 00:07:08"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.32,
+    "timestamp": "2025-09-25 00:07:12"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.45,
+    "timestamp": "2025-09-25 00:07:16"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.45,
+    "timestamp": "2025-09-25 00:07:20"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.45,
+    "timestamp": "2025-09-25 00:07:24"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.52,
+    "timestamp": "2025-09-25 00:07:28"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.52,
+    "timestamp": "2025-09-25 00:07:32"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.52,
+    "timestamp": "2025-09-25 00:07:37"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.64,
+    "timestamp": "2025-09-25 00:07:41"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.64,
+    "timestamp": "2025-09-25 00:07:45"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.64,
+    "timestamp": "2025-09-25 00:07:49"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.52,
+    "timestamp": "2025-09-25 00:07:53"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.66,
+    "timestamp": "2025-09-25 00:07:57"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.66,
+    "timestamp": "2025-09-25 00:08:01"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:05"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:09"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:13"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:17"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.8,
+    "timestamp": "2025-09-25 00:08:21"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:25"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.65,
+    "timestamp": "2025-09-25 00:08:29"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.84,
+    "timestamp": "2025-09-25 00:08:33"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.84,
+    "timestamp": "2025-09-25 00:08:38"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.84,
+    "timestamp": "2025-09-25 00:08:42"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.72,
+    "timestamp": "2025-09-25 00:08:46"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.72,
+    "timestamp": "2025-09-25 00:08:50"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.72,
+    "timestamp": "2025-09-25 00:08:54"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.62,
+    "timestamp": "2025-09-25 00:08:58"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.74,
+    "timestamp": "2025-09-25 00:09:02"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.74,
+    "timestamp": "2025-09-25 00:09:06"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.67,
+    "timestamp": "2025-09-25 00:09:10"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.67,
+    "timestamp": "2025-09-25 00:09:14"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.67,
+    "timestamp": "2025-09-25 00:09:18"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.67,
+    "timestamp": "2025-09-25 00:09:22"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.68,
+    "timestamp": "2025-09-25 00:09:26"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.68,
+    "timestamp": "2025-09-25 00:09:31"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.68,
+    "timestamp": "2025-09-25 00:09:34"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.73,
+    "timestamp": "2025-09-25 00:09:38"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.73,
+    "timestamp": "2025-09-25 00:09:42"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.79,
+    "timestamp": "2025-09-25 00:09:46"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.79,
+    "timestamp": "2025-09-25 00:09:51"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.87,
+    "timestamp": "2025-09-25 00:09:55"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.87,
+    "timestamp": "2025-09-25 00:09:59"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.89,
+    "timestamp": "2025-09-25 00:10:03"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.89,
+    "timestamp": "2025-09-25 00:10:07"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.87,
+    "timestamp": "2025-09-25 00:10:11"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.89,
+    "timestamp": "2025-09-25 00:10:15"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.89,
+    "timestamp": "2025-09-25 00:10:19"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 439.87,
+    "timestamp": "2025-09-25 00:10:23"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.14,
+    "timestamp": "2025-09-25 00:10:27"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.14,
+    "timestamp": "2025-09-25 00:10:32"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.11,
+    "timestamp": "2025-09-25 00:10:36"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.11,
+    "timestamp": "2025-09-25 00:10:40"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.07,
+    "timestamp": "2025-09-25 00:10:44"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.07,
+    "timestamp": "2025-09-25 00:10:48"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.11,
+    "timestamp": "2025-09-25 00:10:52"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.11,
+    "timestamp": "2025-09-25 00:10:56"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.25,
+    "timestamp": "2025-09-25 00:11:00"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.25,
+    "timestamp": "2025-09-25 00:11:04"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.2,
+    "timestamp": "2025-09-25 00:11:08"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.2,
+    "timestamp": "2025-09-25 00:11:12"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.2,
+    "timestamp": "2025-09-25 00:11:16"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.2,
+    "timestamp": "2025-09-25 00:11:20"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.27,
+    "timestamp": "2025-09-25 00:11:24"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.27,
+    "timestamp": "2025-09-25 00:11:28"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.06,
+    "timestamp": "2025-09-25 00:11:33"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.06,
+    "timestamp": "2025-09-25 00:11:37"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.08,
+    "timestamp": "2025-09-25 00:11:41"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.1,
+    "timestamp": "2025-09-25 00:11:45"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.1,
+    "timestamp": "2025-09-25 00:11:49"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.1,
+    "timestamp": "2025-09-25 00:11:53"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.24,
+    "timestamp": "2025-09-25 00:11:57"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.19,
+    "timestamp": "2025-09-25 00:12:02"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.19,
+    "timestamp": "2025-09-25 00:12:06"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.1,
+    "timestamp": "2025-09-25 00:12:10"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.1,
+    "timestamp": "2025-09-25 00:12:15"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.34,
+    "timestamp": "2025-09-25 00:12:19"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.34,
+    "timestamp": "2025-09-25 00:12:23"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.34,
+    "timestamp": "2025-09-25 00:12:28"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.34,
+    "timestamp": "2025-09-25 00:12:32"
+  },
+  {
+    "ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "price": 440.41,
+    "timestamp": "2025-09-25 00:12:37"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.0,
+    "timestamp": "2025-09-25 12:36:58"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:02"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:06"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:10"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:14"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:18"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:22"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:27"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:31"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:35"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:38"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:42"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.95,
+    "timestamp": "2025-09-25 12:37:46"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:37:50"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:37:54"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.55,
+    "timestamp": "2025-09-25 12:37:58"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.55,
+    "timestamp": "2025-09-25 12:38:02"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.5,
+    "timestamp": "2025-09-25 12:38:05"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.5,
+    "timestamp": "2025-09-25 12:38:09"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.5,
+    "timestamp": "2025-09-25 12:38:13"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.5,
+    "timestamp": "2025-09-25 12:38:17"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.5,
+    "timestamp": "2025-09-25 12:38:20"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.4,
+    "timestamp": "2025-09-25 12:38:24"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.4,
+    "timestamp": "2025-09-25 12:38:28"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.4,
+    "timestamp": "2025-09-25 12:38:32"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.35,
+    "timestamp": "2025-09-25 12:38:35"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.35,
+    "timestamp": "2025-09-25 12:38:39"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.05,
+    "timestamp": "2025-09-25 12:38:43"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.15,
+    "timestamp": "2025-09-25 12:38:47"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.15,
+    "timestamp": "2025-09-25 12:38:51"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.15,
+    "timestamp": "2025-09-25 12:38:55"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.15,
+    "timestamp": "2025-09-25 12:38:59"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.45,
+    "timestamp": "2025-09-25 12:39:03"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.45,
+    "timestamp": "2025-09-25 12:39:07"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:10"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:14"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:18"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:22"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:25"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.6,
+    "timestamp": "2025-09-25 12:39:29"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:33"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:37"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:41"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:45"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:48"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:52"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:39:56"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:40:00"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 953.65,
+    "timestamp": "2025-09-25 12:40:04"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.1,
+    "timestamp": "2025-09-25 12:40:08"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.1,
+    "timestamp": "2025-09-25 12:40:12"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.1,
+    "timestamp": "2025-09-25 12:40:15"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.1,
+    "timestamp": "2025-09-25 12:40:19"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.0,
+    "timestamp": "2025-09-25 12:40:23"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.0,
+    "timestamp": "2025-09-25 12:40:27"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.0,
+    "timestamp": "2025-09-25 12:40:31"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.05,
+    "timestamp": "2025-09-25 12:40:35"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.05,
+    "timestamp": "2025-09-25 12:40:39"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.05,
+    "timestamp": "2025-09-25 12:40:42"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.25,
+    "timestamp": "2025-09-25 12:40:46"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.25,
+    "timestamp": "2025-09-25 12:40:50"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.25,
+    "timestamp": "2025-09-25 12:40:54"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.25,
+    "timestamp": "2025-09-25 12:40:58"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.8,
+    "timestamp": "2025-09-25 12:41:02"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.8,
+    "timestamp": "2025-09-25 12:41:06"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.3,
+    "timestamp": "2025-09-25 12:41:10"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.3,
+    "timestamp": "2025-09-25 12:41:14"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.5,
+    "timestamp": "2025-09-25 12:41:17"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.5,
+    "timestamp": "2025-09-25 12:41:21"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "exchange": "NSE",
+    "price": 954.5,
+    "timestamp": "2025-09-25 12:41:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:08"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.0,
+    "timestamp": "2025-09-25 12:45:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.0,
+    "timestamp": "2025-09-25 12:45:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.0,
+    "timestamp": "2025-09-25 12:45:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.0,
+    "timestamp": "2025-09-25 12:45:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.5,
+    "timestamp": "2025-09-25 12:45:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.5,
+    "timestamp": "2025-09-25 12:45:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.1,
+    "timestamp": "2025-09-25 12:45:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.4,
+    "timestamp": "2025-09-25 12:45:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.4,
+    "timestamp": "2025-09-25 12:45:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.4,
+    "timestamp": "2025-09-25 12:46:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.4,
+    "timestamp": "2025-09-25 12:46:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.6,
+    "timestamp": "2025-09-25 12:46:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:46:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:46:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:46:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:46:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:46:49"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 12:46:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 12:46:57"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:08"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:28"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:47:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:47:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:47:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:48:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:48:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:28"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 12:48:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:48:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:48:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:48:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:48:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:48:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:48:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:48:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:49:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:49:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:49:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:49:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:49:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:49:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:49:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:49:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:49:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:49:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:50:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:50:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:50:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:50:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:50:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 12:50:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:50:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.9,
+    "timestamp": "2025-09-25 12:50:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:50:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.8,
+    "timestamp": "2025-09-25 12:50:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 12:51:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:51:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:51:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1377.7,
+    "timestamp": "2025-09-25 12:51:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.3,
+    "timestamp": "2025-09-25 12:51:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:51:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 12:51:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:51:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:51:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:52:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.3,
+    "timestamp": "2025-09-25 12:52:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.3,
+    "timestamp": "2025-09-25 12:52:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:52:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:52:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:52:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:52:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:52:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:52:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:52:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:52:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:52:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:52:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:52:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:52:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 12:52:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 12:53:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 12:53:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 12:53:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:53:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:53:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 12:53:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:53:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:53:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:53:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:53:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:53:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:54:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:54:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:54:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:54:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:54:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:50"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:54:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:55:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:55:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 12:55:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 12:55:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 12:55:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:49"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:55:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:56:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 12:56:08"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:56:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:56:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 12:56:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 12:56:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 12:56:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:56:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:56:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 12:56:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:57:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 12:57:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:57:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:57:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 12:57:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 12:57:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 12:57:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 12:57:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:57:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:57:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:57:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:57:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:57:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:57:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:57:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:57:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:58:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:58:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:58:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:58:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:58:17"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 12:58:21"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 12:58:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:58:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:59:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:59:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 12:59:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 12:59:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 12:59:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 12:59:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:59:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:59:49"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:59:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 12:59:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 13:00:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.1,
+    "timestamp": "2025-09-25 13:00:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:00:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:00:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:00:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:00:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:01:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:01:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:01:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:01:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 13:01:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.4,
+    "timestamp": "2025-09-25 13:01:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:01:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:01:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:01:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:02:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:49"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:02:57"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:03:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:03:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:03:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:03:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:03:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.1,
+    "timestamp": "2025-09-25 13:03:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.1,
+    "timestamp": "2025-09-25 13:03:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:03:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:03:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.1,
+    "timestamp": "2025-09-25 13:03:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.1,
+    "timestamp": "2025-09-25 13:03:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:03:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:03:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:03:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:03:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:03:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:03:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:04:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:04:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:04:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:04:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:04:17"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:04:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:04:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:04:28"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:04:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:04:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:04:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:04:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:04:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:04:50"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:04:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:04:57"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:05:01"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:05:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:05:08"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:05:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:05:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:05:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:05:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:05:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:05:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:05:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:05:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:05:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:05:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:05:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:05:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:05:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:05:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:06:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:06:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:06:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:06:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:06:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:06:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:07:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:07:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:07:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:07:12"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:07:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:07:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:07:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:07:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:49"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:07:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:07:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:00"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:08:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:08:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.7,
+    "timestamp": "2025-09-25 13:08:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 13:08:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.2,
+    "timestamp": "2025-09-25 13:08:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:48"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:08:52"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:56"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.3,
+    "timestamp": "2025-09-25 13:08:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:09:03"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:09:07"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:18"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:22"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:26"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:09:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:09:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.6,
+    "timestamp": "2025-09-25 13:09:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:09:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:09:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:09:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:09:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.2,
+    "timestamp": "2025-09-25 13:10:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.2,
+    "timestamp": "2025-09-25 13:10:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:10:16"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.9,
+    "timestamp": "2025-09-25 13:10:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:31"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.4,
+    "timestamp": "2025-09-25 13:10:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.2,
+    "timestamp": "2025-09-25 13:10:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.5,
+    "timestamp": "2025-09-25 13:10:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.5,
+    "timestamp": "2025-09-25 13:10:46"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.5,
+    "timestamp": "2025-09-25 13:10:50"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:10:53"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1380.0,
+    "timestamp": "2025-09-25 13:10:57"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:01"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:04"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:08"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:11"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:15"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:11:19"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:11:23"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:11:27"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:30"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.8,
+    "timestamp": "2025-09-25 13:11:34"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:11:38"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.5,
+    "timestamp": "2025-09-25 13:11:42"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 13:22:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.1,
+    "timestamp": "2025-09-25 13:22:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 13:22:50"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 13:22:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 13:22:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 13:23:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 13:23:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.2,
+    "timestamp": "2025-09-25 13:23:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 13:23:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.0,
+    "timestamp": "2025-09-25 13:23:17"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 13:23:20"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 13:23:24"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:23:28"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:23:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:23:35"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:39"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:43"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:54"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:23:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:24:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:24:05"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.9,
+    "timestamp": "2025-09-25 13:24:09"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:13"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:17"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:21"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.4,
+    "timestamp": "2025-09-25 13:24:33"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 13:24:37"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 13:24:41"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 13:24:45"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 13:25:21"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.5,
+    "timestamp": "2025-09-25 13:25:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.3,
+    "timestamp": "2025-09-25 13:25:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.3,
+    "timestamp": "2025-09-25 13:25:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:25:59"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:10"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:14"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:17"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:21"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:25"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:26:29"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:32"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:36"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.8,
+    "timestamp": "2025-09-25 13:26:40"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.6,
+    "timestamp": "2025-09-25 13:26:44"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:26:47"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:26:51"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:26:55"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:26:58"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:27:02"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1379.0,
+    "timestamp": "2025-09-25 13:27:06"
+  },
+  {
+    "ticker": "ICICIBANK",
+    "exchange": "NSE",
+    "price": 1378.7,
+    "timestamp": "2025-09-25 13:27:09"
+  }
+]
