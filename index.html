@@ -1,313 +1,156 @@
 <!DOCTYPE HTML>
-<html>
-
-<!-- All of the links -->
-
+<html lang="en">
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Stock_it_up — Market made simple</title>
 
-  <title>Stock_it_up</title>
-
-  <link href="pla.css" rel="stylesheet" type="text/css">
-  <script src="pla.js" defer></script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet" type="text/css">
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Exo:wght@400;600&display=swap">
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600&display=swap"
-    rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600&display=swap" rel="stylesheet">
 
+  <!-- Styles -->
+  <link href="index.css" rel="stylesheet" type="text/css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+  <script src="stock.js" defer></script>
 </head>
 
-
-
-
 <body>
-
-
-
-
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-
-  <!-- Containers -->
-
- 
-
-  <div class="header_box_two">
-  
-  </div>
-
-
-
-  <div class="header_box_three">
-    <div class="news"></div>
-    <p><strong><i>Stock news</i></strong></p>
-
-    <!--Starting of News Navigation-->
-
-    <div class="Stocks-news">
-      <div class="search">
-        <input class="input" type="text" placeholder="Enter stock topic..." />
-        <br>
-        <div class="search-button">
-          <input type="button" value="Search" onclick="retrieve(event)" />
-
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="nav">
+        <div class="brand">
+          <div class="logo">SI</div>
+          <div>
+            <h1>Stock_it_up</h1>
+            <div style="font-size:12px;color:var(--muted)">Market made simple</div>
+          </div>
         </div>
-        <br>
 
+        <nav>
+          <ul>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#watch">Watchlist</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a class="cta" href="#stockGrid">Try demo</a></li>
+          </ul>
+        </nav>
       </div>
+    </header>
 
+    <main>
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="hero-left">
+          <h2>Invest with confidence. Track with joy.</h2>
+          <p>Live-synced charts, an easy watchlist, and news that explains what's happening — all designed for beginners and pros alike.</p>
+          <div class="hero-actions">
+            <a class="cta" href="#stockGrid">Open live demo</a>
+            <a class="pill" href="#watch">Create Watchlist</a>
+            <a class="pill" href="#news">Market News</a>
+          </div>
 
-      <!--List to display news articles when interacted by js-->
+          <div class="grid" id="features">
+            <div class="feature">
+              <h3>Live Charts</h3>
+              <p>Interactive charts powered by Chart.js. Easily switch symbols and timeframes.</p>
+            </div>
+            <div class="feature">
+              <h3>Watchlist</h3>
+              <p>Save tickers locally, see quick performance, and pin favorites.</p>
+            </div>
+            <div class="feature">
+              <h3>Explainers & Tips</h3>
+              <p>Quick, plain-language explanations for key market terms and strategies.</p>
+            </div>
+          </div>
+        </div>
 
-      <div class="container">
-        <ul class="news-list"></ul>
+        <aside class="card">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <div>
+              <strong>Live demo — AAPL</strong>
+              <div style="font-size:12px;color:var(--muted)">Simulated realtime data</div>
+            </div>
+            <div style="font-size:12px;color:var(--muted)">Updated <span id="last-updated">--</span></div>
+          </div>
+
+          <div class="chart-wrap" style="margin-top:12px">
+            <canvas id="liveChart"></canvas>
+          </div>
+
+          <div class="stats">
+            <div class="stat">
+              <h4>Price</h4>
+              <p id="stat-price">--</p>
+            </div>
+            <div class="stat">
+              <h4>Change</h4>
+              <p id="stat-change">--</p>
+            </div>
+            <div class="stat">
+              <h4>Volume</h4>
+              <p id="stat-vol">--</p>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <!-- Old Intro Text -->
+      <div class="intro-text">“Stock Market Made Simple”</div>
+      <p class="sub">Our platform brings you live stock tracking, beginner-friendly news, clear explanations of key market terms, and simple insights — making investing exciting and easy to understand.</p>
+
+      <!-- Watchlist + News -->
+      <section class="row" id="watch">
+        <div class="watchlist card">
+          <h3>Watchlist</h3>
+          <div style="font-size:12px;color:var(--muted)">Add a ticker symbol (e.g. AAPL, TSLA). Stored locally in your browser.</div>
+
+          <div style="display:flex;gap:8px;margin-top:12px">
+            <input id="ticker-input" class="input" placeholder="Ticker (e.g. AAPL)" />
+            <button id="add-btn" class="btn-primary">Add</button>
+          </div>
+
+          <ul id="watch-ul" style="margin-top:12px"></ul>
+
+          <div class="watch-controls">
+            <button id="clear-btn" class="input">Clear all</button>
+            <button id="populate-btn" class="input">Sample list</button>
+          </div>
+        </div>
+
+        <aside class="news" id="news">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <h3 style="margin:0">Market News</h3>
+            <button id="refresh-news" class="input">Refresh</button>
+          </div>
+          <div class="news-list" id="news-list"></div>
+        </aside>
+      </section>
+
+      <!-- Stock Grid -->
+      <section id="stockGrid" style="margin-top:28px" class="card">
+        <h3>Popular Stocks</h3>
+        <div class="stock-grid">
+          <a class="stock-card" href="/gold/index.html"><div class="logo-circle" style="background:linear-gradient(135deg,#f39c12,#ffcc66)">R</div><div class="meta"><div class="name"><strong>Reliance</strong></div><div class="ticker">RELIANCE</div></div></a>
+          <a class="stock-card" href="/silver/index.html"><div class="logo-circle" style="background:linear-gradient(135deg,#00e6ff,#3bd1ff)">T</div><div class="meta"><div class="name"><strong>Tata</strong></div><div class="ticker">TATA</div></div></a>
+          <a class="stock-card" href="/copper/index.html"><div class="logo-circle" style="background:linear-gradient(135deg,#8b5cf6,#b89bff)">H</div><div class="meta"><div class="name"><strong>HDFC</strong></div><div class="ticker">HDFC</div></div></a>
+          <a class="stock-card" href="/bronze/index.html"><div class="logo-circle" style="background:linear-gradient(135deg,#2ecc71,#74e99a)">A</div><div class="meta"><div class="name"><strong>Airtel</strong></div><div class="ticker">AIRTEL</div></div></a>
+          <a class="stock-card" href="/platinum/index.html"><div class="logo-circle" style="background:linear-gradient(135deg,#00aaff,#66ccff)">I</div><div class="meta"><div class="name"><strong>ICICI</strong></div><div class="ticker">ICICI</div></div></a>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <div style="max-width:900px;margin:0 auto;padding:20px;color:var(--muted);font-size:14px">
+        © 2025 Stock it up • All rights reserved • Find me on <a href="https://github.com/" target="_blank" style="color:gold;">GitHub</a>
       </div>
-    </div>
+    </footer>
   </div>
-
-  <script>
-
-    // ===== News tab persistence & behavior =====
-
-    // Grab elements (keep your existing classes/ids)
-    const searchForm = document.querySelector('.search');
-    const input = document.querySelector('.input');
-    const newsList = document.querySelector('.news-list');
-    const resetBtn = document.getElementById('resetBtn'); // optional: from your HTML
-
-    // ---- Helpers to persist input state ----
-    function saveInputValue() {
-      if (!input) return;
-      localStorage.setItem('lastTopic', input.value);
-    }
-
-    function saveInputSelection() {
-      if (!input) return;
-      try {
-        localStorage.setItem('lastTopicSelStart', String(input.selectionStart ?? ''));
-        localStorage.setItem('lastTopicSelEnd', String(input.selectionEnd ?? ''));
-      } catch (_) { }
-    }
-
-    function saveInputFocus(focused) {
-      localStorage.setItem('lastTopicFocused', focused ? '1' : '0');
-    }
-
-    function restoreInputState() {
-      if (!input) return;
-      const savedTopic = localStorage.getItem('lastTopic');
-      if (savedTopic !== null) input.value = savedTopic;
-
-
-
-      // Restore focus + caret (after the field exists)
-      const wasFocused = localStorage.getItem('lastTopicFocused') === '1';
-      const selStart = parseInt(localStorage.getItem('lastTopicSelStart') || '', 10);
-      const selEnd = parseInt(localStorage.getItem('lastTopicSelEnd') || '', 10);
-
-      if (wasFocused) {
-        // Wait one tick so styles/layout don’t steal focus on load
-        setTimeout(() => {
-          input.focus({ preventScroll: true });
-          if (!Number.isNaN(selStart) && !Number.isNaN(selEnd)) {
-            try { input.setSelectionRange(selStart, selEnd); } catch (_) { }
-          } else {
-            const len = input.value.length;
-            try { input.setSelectionRange(len, len); } catch (_) { }
-          }
-        }, 0);
-      }
-    }
-
-    function restoreNewsResults() {
-      if (!newsList) return;
-      const savedResults = localStorage.getItem('newsResults');
-      if (savedResults) newsList.innerHTML = savedResults;
-    }
-
-    // ---- Fetch + render news, then persist results ----
-    function doSearch(topic) {
-      const apiKey = '09d3761b280544309b5925509e559d50';
-      const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(topic)}&apiKey=${apiKey}`;
-
-      fetch(url)
-        .then(res => res.json())
-        .then(data => {
-          if (!newsList) return;
-
-          newsList.innerHTML = '';
-
-          if (!data.articles || data.articles.length === 0) {
-            newsList.innerHTML = '<li>No articles found.</li>';
-            return;
-          }
-
-          data.articles.slice(1).forEach(article => {
-            const li = document.createElement('li');
-            const a = document.createElement('a');
-            a.style.color = 'white';
-            a.style.textDecoration = "none";
-            a.style.fontFamily = 'Verdana, sans-serif';
-            a.style.fontSize = '12px';
-            a.setAttribute('href', article.url);
-            a.setAttribute('target', '_blank');
-            a.textContent = article.title;
-            li.appendChild(a);
-            newsList.appendChild(li);
-          });
-
-          // Persist rendered results + the current topic
-          localStorage.setItem('newsResults', newsList.innerHTML);
-          saveInputValue();
-        })
-        .catch(err => {
-          console.error('Error fetching news:', err);
-          if (newsList) newsList.innerHTML = '<li>Failed to load news. Please try again.</li>';
-        });
-    }
-
-    // ---- Public handler (works for form submit or inline onclick) ----
-    function retrieve(e) {
-      if (e && typeof e.preventDefault === 'function') e.preventDefault();
-
-      if (!input) return;
-      const topic = input.value.trim();
-      if (!topic) {
-        alert('Please enter a topic to search.');
-        return;
-      }
-      // Save immediately so a sudden refresh won’t lose text
-      saveInputValue();
-      doSearch(topic);
-    }
-
-    // Expose for inline HTML handlers if you have them
-    window.retrieve = retrieve;
-
-    // ---- Wire up events and restore on load ----
-    document.addEventListener('DOMContentLoaded', () => {
-      // Restore previous UI state
-      restoreInputState();
-      restoreNewsResults();
-
-      // Block full-page refresh from form submits (Enter key, etc.)
-      if (searchForm) {
-        searchForm.addEventListener('submit', (e) => {
-          e.preventDefault();
-          retrieve(e);
-        });
-      }
-
-      if (input) {
-        // Save as you type so refresh never loses text
-        input.addEventListener('input', () => {
-          saveInputValue();
-          saveInputSelection();
-        });
-
-        // Keep caret position current
-        input.addEventListener('keyup', saveInputSelection);
-        input.addEventListener('click', saveInputSelection);
-
-        // Prevent Enter from causing a submit in some browsers
-        input.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter') {
-            e.preventDefault();
-            retrieve(e);
-          }
-        });
-
-        // Track focus state so we can restore it after reload
-        input.addEventListener('focus', () => saveInputFocus(true));
-        input.addEventListener('blur', () => saveInputFocus(false));
-      }
-
-      // Optional: ensure Reset Chart never reloads the page
-      if (resetBtn) {
-        resetBtn.addEventListener('click', (e) => {
-          e.preventDefault();
-          // If you have a global chart instance, reset it without reload
-          if (window.myChart) {
-            try {
-              window.myChart.data.labels = [];
-              window.myChart.data.datasets.forEach(ds => ds.data = []);
-              window.myChart.update();
-            } catch (_) { }
-          }
-          // Do NOT reload the page here.
-        });
-      }
-    });
-
-    // Save one last time right before unload (covers sudden refresh)
-    window.addEventListener('beforeunload', () => {
-      saveInputValue();
-      saveInputSelection();
-      if (document.activeElement === input) saveInputFocus(true);
-    });
-
-  </script>
-  </div>
-  </div>
-
-
-  <!--Buttons Navigation ans links to other webpages-->
-  <div class="stock-grid" id="stockGrid">
-    <a class="stock-card" href="/gold/index.html" title="Reliance">
-      <div class="logo-circle" style="background:linear-gradient(135deg,#f39c12,#ffcc66)">R</div>
-      <div class="meta">
-        <div class="name"><strong>Reliance</strong></div>
-        <div class="ticker">RELIANCE</div>
-      </div>
-    </a>
-
-    <a class="stock-card" href="/silver/index.html" title="Tata">
-      <div class="logo-circle" style="background:linear-gradient(135deg,#00e6ff,#3bd1ff)">T</div>
-      <div class="meta">
-        <div class="name"><strong>Tata</strong></div>
-        <div class="ticker">TATA</div>
-      </div>
-    </a>
-
-    <a class="stock-card" href="/copper/index.html" title="HDFC">
-      <div class="logo-circle" style="background:linear-gradient(135deg,#8b5cf6,#b89bff)">H</div>
-      <div class="meta">
-        <div class="name"><strong>HDFC</strong></div>
-        <div class="ticker">HDFC</div>
-      </div>
-    </a>
-
-    <a class="stock-card" href="/bronze/index.html" title="Airtel">
-      <div class="logo-circle" style="background:linear-gradient(135deg,#2ecc71,#74e99a)">A</div>
-      <div class="meta">
-        <div class="name"><strong>Airtel</strong></div>
-        <div class="ticker">AIRTEL</div>
-      </div>
-    </a>
-
-    <a class="stock-card" href="/platinum/index.html" title="ICICI">
-      <div class="logo-circle" style="background:linear-gradient(135deg,#00aaff,#66ccff)">I</div>
-      <div class="meta">
-        <div class="name"><strong>I C I C I</strong></div>
-        <div class="ticker">ICICI</div>
-      </div>
-    </a>
-
-
-  </div>
-
-  <!--Dimensions of the chart-->
-
-
-  <div class="footer">
-    <h5>© 2025 Stock it up</h5>
-    <p id="stk">Stock it up by K.aadarsh | All rights reserved | </p>
-    <p id="stk2">Find me on <a href="https://github.com/" target="_blank" style="color:gold;">GitHub</a></p>
-
-  </div>
-
 </body>
-
 </html>
