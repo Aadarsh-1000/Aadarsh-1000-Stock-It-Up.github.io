@@ -1,4 +1,42 @@
-# Stock-It-Up
-Stock it up is a Indian stock company live tracker which give the real time updating stocks of India's top five companies.It also provides news based on topics searched.
-For any concerns or questions please email us at aadarsh.kamisetty@gmail.com.
+# Stock It Up
 
+**Stock It Up** is an Indian stock tracker that provides **real-time updates** for the top five companies in India. It also delivers news based on topics you search, helping you stay informed and make smarter investment decisions.  
+
+---
+
+## Features
+
+- **Live Stock Updates**: Track real-time stock prices of India’s top five companies.  
+- **News Integration**: Get news related to your searched topics.  
+- **Easy to Use**: Clean and intuitive interface for quick access to information.  
+- **Responsive Design**: Works on both desktop and mobile devices.  
+
+---
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python (for fetching live stock data)  
+- **APIs**: Google Finance, News APIs  
+- **Data Handling**: JSON  
+
+---
+
+## How It Works
+
+1. The user opens the application.  
+2. The app fetches live stock prices of the top five Indian companies.  
+3. Users can search for topics to get related news.  
+4. Data is updated in real-time to provide accurate information.  
+
+---
+
+## Contact
+
+*(PLease meessage us at aadarsh.kamysetty@gmail.com for any issues or queries)*
+
+---
+
+## Getting Started
+
+Clone the repository to your local machine:
