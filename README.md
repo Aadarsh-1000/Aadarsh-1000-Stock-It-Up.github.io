@@ -9,7 +9,6 @@
 - **Live Stock Updates**: Track real-time stock prices of India’s top five companies.  
 - **News Integration**: Get news related to your searched topics.  
 - **Easy to Use**: Clean and intuitive interface for quick access to information.  
-- **Responsive Design**: Works on both desktop and mobile devices.  
 
 ---
 
