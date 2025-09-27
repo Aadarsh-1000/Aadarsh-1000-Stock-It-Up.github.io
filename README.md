@@ -32,7 +32,7 @@
 
 ## Contact
 
-*(PLease meessage us at aadarsh.kamysetty@gmail.com for any issues or queries)*
+*(PLease meessage us at aadarsh.kamisetty@gmail.com for any issues or queries)*
 
 ---
 
