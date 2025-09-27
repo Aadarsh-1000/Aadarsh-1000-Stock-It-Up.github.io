@@ -39,3 +39,8 @@
 ## Getting Started
 
 Clone the repository to your local machine:
+
+---
+##Issue
+
+If you are not able to access the features of this website please ensure that your device runs *(Live-Server)*
