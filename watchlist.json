@@ -1,0 +1,6 @@
+[
+  {"ticker": "BHARTIARTL", "exchange": "NSE"},
+  {"ticker": "TSLA", "exchange": "NASDAQ"},
+  {"ticker": "AMZN", "exchange": "NASDAQ"},
+  {"ticker": "AAPL", "exchange": "NASDAQ"}
+]

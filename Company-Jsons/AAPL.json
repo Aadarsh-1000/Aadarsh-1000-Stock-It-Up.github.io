@@ -1,0 +1,2690 @@
+[
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:45:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:45:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:45:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:45:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:45:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:46:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:46:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:46:28"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:46:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:46:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:47:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:48:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:48:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:48:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:48:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:48:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:49:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:50:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:50:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:50:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:50:39"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:50:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:22"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:33"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:51:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:52:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:52:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:52:28"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:52:39"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:52:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:33"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:53:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:16"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:48"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:54:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:55:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:55:21"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:55:32"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:55:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:55:53"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:04"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:56:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:57:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:57:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:57:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:57:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:57:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:58:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:16"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:48"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 15:59:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:00:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:00:21"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:00:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:00:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:00:53"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:01:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:02:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:02:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:02:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:02:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:02:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:03:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:04:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:04:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:04:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:04:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:04:49"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:06:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:06:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:06:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:06:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:06:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:07:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:07:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:07:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:07:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:07:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:22"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:33"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:08:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:49"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:09:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:10:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:10:21"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:10:32"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:10:43"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:10:54"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:15"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:26"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:37"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:11:58"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:12:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:12:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:12:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:12:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:12:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:13:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:14:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:14:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:14:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:14:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:14:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:15:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:16:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:16:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:16:28"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:19:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:19:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:19:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:19:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:20:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:20:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:20:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:20:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:20:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:21:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:22:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:22:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:22:28"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:22:39"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:22:49"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:00"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:11"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:22"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:32"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:43"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:23:54"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:15"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:26"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:37"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:48"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:24:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:25:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:25:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:25:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:25:43"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:25:54"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:15"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:26"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:37"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:26:58"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:27:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:27:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:27:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:27:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:27:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:28:58"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:29:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:29:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:29:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:29:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:29:53"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:04"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:15"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:48"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:30:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:31:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:31:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:31:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:31:42"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:31:53"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:04"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:15"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:26"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:32:58"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:33:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:33:20"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:33:31"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:33:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:33:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:34:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:35:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:35:22"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:35:33"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:35:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:35:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:36:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:36:16"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:36:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:36:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:36:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:37:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:38:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:38:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:38:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:38:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:38:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:39:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:39:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:39:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:39:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 16:39:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:16"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:48"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:00:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:01:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:01:22"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:01:33"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:01:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:01:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:02:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:02:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:02:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:02:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:02:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:03:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:04:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:04:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:04:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:04:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:04:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:05:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:06:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:06:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:06:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:06:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:07:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:07:38"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:07:49"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:00"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:10"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:21"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:08:55"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:09:06"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:09:17"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:09:28"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:09:39"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:09:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:10:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:11:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:11:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:11:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:11:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:11:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:12:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:13:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:13:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:13:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:13:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:13:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:14:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:15:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:15:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:15:29"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:15:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:15:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:16:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:17:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:17:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:17:34"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:17:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:17:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:18:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:18:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:18:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:18:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:18:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:19:58"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:20:09"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:20:21"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:20:32"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:20:44"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:20:54"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:21:05"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:21:16"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:21:27"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:21:39"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:21:50"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:01"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:12"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:23"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:45"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:22:56"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:23:07"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:23:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:23:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:23:40"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:23:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:24:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:25:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:25:18"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:25:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:25:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:25:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:26:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:27:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:27:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:27:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:27:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:27:51"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:02"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:13"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:24"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:35"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:46"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:28:57"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:29:08"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:29:19"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:29:30"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:29:41"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:29:52"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:03"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:14"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:25"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:36"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:47"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:30:59"
+  },
+  {
+    "ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "price": 256.87,
+    "timestamp": "2025-09-26 17:31:10"
+  }
+]

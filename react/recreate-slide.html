@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PPT Viewer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="slideshow">
+    {% for slide in slides %}
+      <div class="slide">
+        <img src="{{ url_for('serve_slide', filename=slide) }}" alt="Slide">
+      </div>
+    {% endfor %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
+    <link rel="stylesheet" href=slide.css">
+  </div>
+
+  <button id="prev">⟨</button>
+  <button id="next">⟩</button>
+
+  <script>
+    const slides = document.querySelectorAll(".slide");
+    let current = 0;
+
+    function showSlide(i) {
+      slides.forEach((s, idx) => s.style.display = (idx === i) ? "block" : "none");
+    }
+
+    document.getElementById("prev").onclick = () => {
+      current = (current - 1 + slides.length) % slides.length;
+      showSlide(current);
+    };
+
+    document.getElementById("next").onclick = () => {
+      current = (current + 1) % slides.length;
+      showSlide(current);
+    };
+
+    showSlide(current);
+  </script>
+</body>
+</html>
